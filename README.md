@@ -12,4 +12,4 @@
 
 ⚡ Interests: Photography
 
-![Tong's Picture](https://octodex.github.com/images/bannekat.png)
+![Tong's Picture](https://github.com/Tong-Ye-1159668/Tong-Ye-1159668/blob/main/Tong's%20picture.jpg?raw=true)
