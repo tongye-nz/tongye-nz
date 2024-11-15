@@ -1,6 +1,5 @@
-# TongYe
+# Hi there 👋 I'm Tong
 
-Hi there 👋 I'm Tong
 🔭 I am studying for a Master of Applied Computing at Lincoln University in Christchurch, NZ.
 
 🔧 I am mainly focusing on Full Stack Development and have a strong interest in AI.
