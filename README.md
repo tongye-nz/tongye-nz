@@ -11,3 +11,5 @@
 📫 How to reach me: flick a message to me on LinkedIn ~
 
 ⚡ Interests: Photography
+
+![Tong's Picture](https://octodex.github.com/images/bannekat.png)
