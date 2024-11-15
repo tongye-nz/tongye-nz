@@ -10,6 +10,6 @@
 
 📫 How to reach me: flick a message to me on LinkedIn ~
 
-⚡ Interests: Photography
+⚡ Interests: Photography, Detective Games, Japanese Amine, Assembling and Upgrading computers and laptops
 
 ![Tong's Picture](https://github.com/Tong-Ye-1159668/Tong-Ye-1159668/blob/main/Tong's%20picture.jpg?raw=true)
