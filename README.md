@@ -4,9 +4,11 @@
 
 🔧 I am mainly focusing on Full Stack Development and have a strong interest in AI.
 
-⚡ I have experience in: Python, Javascript, SQL, HTML, CSS, Azure.
+⚡ I have experience in: C#, Python, TypeScript, SQL, HTML, CSS, React, Azure.
 
-🌱 I love exploring and learning new things! I’m currently learning AWS and Azure AI Fundamentals.
+🔭 ISTQB® Certified Tester
+
+🌱 I love exploring and learning new things! I’m currently learning Playwright and Machine Learning.
 
 📫 How to reach me: flick a message to me on LinkedIn ~
 
