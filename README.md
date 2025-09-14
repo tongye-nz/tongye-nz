@@ -4,7 +4,7 @@
 
 🔧 I am mainly focusing on Full Stack Development and have a strong interest in AI.
 
-⚡ I have experience in: C#, Python, TypeScript, SQL, HTML, CSS, React, Azure.
+⚡ I have experience in: .NET 8, Python, TypeScript, SQL, HTML, CSS, React, EF Core, Azure.
 
 🔭 ISTQB® Certified Tester
 
