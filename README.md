@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Tong
 
-🔭 I recently completed my Master of Applied Computing at Lincoln University in Christchurch, NZ.
+🔭 I recently (June 2025) completed my Master of Applied Computing at Lincoln University in Christchurch, NZ.
 
 🔧 I am mainly focusing on full-stack development and have a strong interest in QA.
 
