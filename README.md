@@ -12,6 +12,6 @@
 
 📫 How to reach me: flick a message to me on LinkedIn ~
 
-⚡ Interests: Photography, Detective Games, Japanese Anime, Assembling and Upgrading PCs
+⚡ Interests: Photography, Detective Games, Japanese Anime, Camping and Meetups, Assembling and Upgrading PCs, Making funny pictures and videos
 
 ![Tong's Picture](https://github.com/Tong-Ye-1159668/Tong-Ye-1159668/blob/main/Tong's%20picture.jpg?raw=true)
